@@ -1,0 +1,16 @@
+{
+  "name": "cliente-teste",
+  "version": "1.0.0",
+  "description": "teste de aula conexao servidor",
+  "main": "cli_html.js",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "cli_html.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
